@@ -1,0 +1,41 @@
+name: epicwarrior
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: 3.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+ 
+    - lib/app/assets/
+    - lib/app/assets/quiz/
+    - lib/app/assets/quiz/soekarno.jpg
+    - lib/app/assets/gameGatot/
+    - lib/app/assets/gameMario/
+    - lib/app/assets/gameGatot/Gatot.png
+    - lib/app/assets/gameGatot//baground.png
+    - lib/app/assets/gameGatot/TANAH.png
+    - lib/app/assets/gameGatot/FIGHT.png
+    - lib/app/assets/gameGatot/fight pass.png
+    - lib/app/assets/gameGatot/QUEST.png
+    - lib/app/assets/gameGatot/arena.png
+    - lib/app/assets/gameGatot/SETTING.png
+    - lib/app/assets/gameGatot/+.png
+    - lib/app/assets/gameGatot/dollar.png
+    - lib/app/assets/gameGatot/gems.png
+    - lib/app/assets/gameGatot/Pixel.png
+    
+
